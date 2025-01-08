@@ -1,4 +1,5 @@
-![Alt text](MY photo.jpg)
+![Alt text]("C:\Users\panda\OneDrive\Pictures\MY photo.jpg")
+
 
 
 <h1 align="center">Hi 👋, I'm Saswat Kumar Panda</h1>
