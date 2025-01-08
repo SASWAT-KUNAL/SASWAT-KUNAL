@@ -1,4 +1,4 @@
-![Alt text]("C:\Users\panda\OneDrive\Pictures\MY photo.jpg")
+![Alt text]("Users\panda\OneDrive\Pictures\MY photo.jpg")
 
 
 
