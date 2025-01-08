@@ -1,6 +1,3 @@
-![Alt text]("Users\panda\OneDrive\Pictures\MY photo.jpg")
-
-
 
 <h1 align="center">Hi 👋, I'm Saswat Kumar Panda</h1>
 <h3 align="center">A Passionate Datascience learner</h3>
